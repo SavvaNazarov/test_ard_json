@@ -55,7 +55,7 @@
               "host": "aarch64-linux-gnu",
               "url": "https://github.com/ARM-software/CMSIS_5/archive/refs/tags/5.8.0.zip",
               "archiveFileName": "CMSIS_5-5.8.0.zip",
-              "checksum": "SHA-256:0F3FB44DBA305B0A748652D1460BA7B4199F2A5A4F71CDD3C30B349B03D415DA",
+              "checksum": "SHA-256:0f3fb44dba305b0a748652d1460ba7b4199f2a5a4f71cdd3c30b349b03d415da",
               "size": "48163538"
             },
             {
