@@ -3,16 +3,16 @@
     {
       "name": "Niiet",
       "websiteURL": "https://gitflic.ru/company/niiet",
-      "maintainer": "NIIET",
+      "maintainer": "NIIET_GH",
       "email": "",
       "help": {
         "online": ""
       },
       "platforms": [
         {
-          "name": "k1946vk035 Uno",
+          "name": "k1946vk035 Uno_GH",
           "architecture": "k1921vk",
-          "version": "1.0.1",
+          "version": "1.0.0",
           "category": "Contributed",
           "url": "https://github.com/SavvaNazarov/test_ard/archive/refs/tags/v1.0.0.zip",
           "archiveFileName": "test_ard-1.0.0.zip",
