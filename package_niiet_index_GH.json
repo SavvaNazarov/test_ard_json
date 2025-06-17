@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "k1921vk MCU based boards",
+          "name": "Niiet uno",
           "architecture": "k1921vk",
           "version": "1.0.3",
           "category": "Contributed",
