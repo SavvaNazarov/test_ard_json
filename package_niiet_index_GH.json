@@ -14,10 +14,10 @@
           "architecture": "k1921vk",
           "version": "1.0.1",
           "category": "Contributed",
-          "url": "http://niiet.ru/git/035_hardware.zip",
-          "archiveFileName": "035_hardware.zip",
-          "checksum": "SHA-256:75eb3bf3eec2e7d4ff3be64a2cb9c70f1541a95e93a4e7976d8bb299c58d4299",
-          "size": "95465",
+          "url": "https://github.com/DCVostok/vostok-1-frmwrk-vn-arduino/archive/refs/tags/v1.0.3.zip",
+          "archiveFileName": "vostok-1-frmwrk-vn-arduino-1.0.3.zip",
+          "checksum": "SHA-256:E2361F684B3B95E96487C322BAF2D2065771AB20D44D21EFF36EED37C148033F",
+          "size": "1487829",
           "boards": [
             {
               "name": "Niiet UNO-VN035"
@@ -75,31 +75,6 @@
           ]
         },
         {
-          "name": "framework-k1921vk-sdk",
-          "version": "1.7.3",
-          "systems": [
-            {
-              "host": "aarch64-linux-gnu",
-              "url": "https://github.com/DCVostok/k1921vk-sdk/archive/refs/tags/v1.7.3.zip",
-              "archiveFileName": "k1921vk-sdk-1.7.3.zip",
-              "checksum": "SHA-256:21e8ccc397fc1e3763a0a2f3a5c40b9d8d61ad4ff72f0008089bb52d9019c3bf",
-              "size": "1871965"
-            }
-          ]
-        },
-        {
-          "name": "k1921vk_flasher",
-          "version": "1.2.1",
-          "systems": [
-            {
-              "host": "aarch64-linux-gnu",
-              "url": "https://github.com/DCVostok/k1921vkx_flasher/archive/refs/tags/v1.2.1.zip",
-              "archiveFileName": "k1921vkx_flasher-1.2.1.zip",
-              "checksum": "SHA-256:2BB0DA90CAF51BC533987ED53CA60251923F6F286320ACDF0B37B8B513936341",
-              "size": "145884"
-            }
-          ]
-        },{
           "name": "k1921vk_flasher",
           "version": "1.3.1",
           "systems": [
