@@ -14,10 +14,10 @@
           "architecture": "k1921vk",
           "version": "1.0.1",
           "category": "Contributed",
-          "url": "https://github.com/DCVostok/vostok-1-frmwrk-vn-arduino/archive/refs/tags/v1.0.3.zip",
-          "archiveFileName": "vostok-1-frmwrk-vn-arduino-1.0.3.zip",
-          "checksum": "SHA-256:E2361F684B3B95E96487C322BAF2D2065771AB20D44D21EFF36EED37C148033F",
-          "size": "1487829",
+          "url": "https://github.com/SavvaNazarov/test_ard/archive/refs/tags/v1.0.1.zip",
+          "archiveFileName": "test_ard-1.0.1.zip",
+          "checksum": "SHA-256:a5a9662e1bdaf5c4d91d74ae313d1ff28aa7f05f276ef943922c2f5e62084169",
+          "size": "99277",
           "boards": [
             {
               "name": "Niiet UNO-VN035"
