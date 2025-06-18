@@ -14,10 +14,10 @@
           "architecture": "k1921vk",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://niiet.ru/git/035_hardware.zip",
-          "archiveFileName": "035_hardware.zip",
-          "checksum": "SHA-256:75EB3BF3EEC2E7D4FF3BE64A2CB9C70F1541A95E93A4E7976D8BB299C58D4299",
-          "size": "95465",
+          "url": "https://github.com/DCVostok/vostok-1-frmwrk-vn-arduino/archive/refs/tags/v1.0.3.zip",
+          "archiveFileName": "vostok-1-frmwrk-vn-arduino-1.0.3.zip",
+          "checksum": "SHA-256:E2361F684B3B95E96487C322BAF2D2065771AB20D44D21EFF36EED37C148033F",
+          "size": "1487829",
           "boards": [
             {
               "name": "Niiet UNO-VN035"
@@ -25,22 +25,22 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "Vostok",
+              "packager": "Niiet",
               "name": "xpack-arm-none-eabi-gcc",
               "version": "10.3.1-2.3"
             },
             {
-              "packager": "Vostok",
+              "packager": "Niiet",
               "name": "k1921vk_flasher",
               "version": "1.3.1"
             },
             {
-              "packager": "Vostok",
+              "packager": "Niiet",
               "name": "k1921vk-sdk",
               "version": "1.7.3"
             },
             {
-              "packager": "Vostok",
+              "packager": "Niiet",
               "name": "CMSIS",
               "version": "5.8.0"
             }
