@@ -6,13 +6,13 @@
       "websiteURL": "https://niiet.ru/",
       "email": "",
       "help": {
-        "online": ""
+        "online": "https://niiet.ru/support/"
       },
       "platforms": [
         {
           "name": "Niiet uno",
           "architecture": "k1921vk",
-          "version": "1.0.0",
+          "version": "1.0.3",
           "category": "Contributed",
           "url": "https://github.com/SavvaNazarov/test-ard/archive/refs/tags/v1.0.3.zip",
           "archiveFileName": "test-ard-1.0.3.zip",
@@ -48,19 +48,6 @@
         }
       ],
       "tools": [
-        {
-          "name": "CMSIS",
-          "version": "5.8.0",
-          "systems": [
-            {
-              "host": "i686-mingw32",
-              "url": "https://github.com/ARM-software/CMSIS_5/archive/refs/tags/5.8.0.zip",
-              "archiveFileName": "CMSIS_5-5.8.0.zip",
-              "checksum": "SHA-256:0f3fb44dba305b0a748652d1460ba7b4199f2a5a4f71cdd3c30b349b03d415da",
-              "size": "48163538"
-            }
-          ]
-        },
         {
           "name": "k1921vk-sdk",
           "version": "1.7.3",
