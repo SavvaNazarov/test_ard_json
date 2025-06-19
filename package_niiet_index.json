@@ -2,8 +2,8 @@
   "packages": [
     {
       "name": "Niiet",
+      "maintainer": "JSC NIIET",
       "websiteURL": "https://niiet.ru/",
-      "maintainer": "NIIET",
       "email": "",
       "help": {
         "online": ""
@@ -25,22 +25,22 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "Niiet",
+              "packager": "Vostok",
               "name": "xpack-arm-none-eabi-gcc",
               "version": "10.3.1-2.3"
             },
             {
-              "packager": "Niiet",
+              "packager": "Vostok",
               "name": "k1921vk_flasher",
               "version": "1.3.1"
             },
             {
-              "packager": "Niiet",
+              "packager": "Vostok",
               "name": "k1921vk-sdk",
               "version": "1.7.3"
             },
             {
-              "packager": "Niiet",
+              "packager": "Vostok",
               "name": "CMSIS",
               "version": "5.8.0"
             }
