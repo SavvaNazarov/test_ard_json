@@ -80,10 +80,10 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/DCVostok/k1921vkx_flasher/archive/refs/tags/v1.3.1.zip",
+              "url": "http://niiet.ru/git/k1921vkx_flasher-1.3.1-win.zip",
               "archiveFileName": "k1921vkx_flasher-1.3.1.zip",
-              "checksum": "SHA-256:C8026D4FBEA8C786E110AC4F043E34A8AFA0E90DBBA5C339FEEADBF83D1C8E6D",
-              "size": "144685"
+              "checksum": "SHA-256:788f45653457e618c87badeda743bdfd5c83e241397c2a1a64466270bae8e5e4",
+              "size": "35496446"
             }
           ]
         },
