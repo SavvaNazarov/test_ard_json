@@ -38,11 +38,6 @@
               "packager": "Niiet",
               "name": "k1921vk-sdk",
               "version": "1.7.3"
-            },
-            {
-              "packager": "Niiet",
-              "name": "CMSIS",
-              "version": "5.8.0"
             }
           ]
         }
