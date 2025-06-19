@@ -14,10 +14,10 @@
           "architecture": "k1921vk",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/SavvaNazarov/test_ard/archive/refs/tags/v1.0.1.zip",
-          "archiveFileName": "test-ard-1.0.1.zip",
-          "checksum": "SHA-256:a5a9662e1bdaf5c4d91d74ae313d1ff28aa7f05f276ef943922c2f5e62084169",
-          "size": "99277",
+          "url": "https://github.com/SavvaNazarov/test-ard/archive/refs/tags/v1.0.3.zip",
+          "archiveFileName": "test-ard-1.0.3.zip",
+          "checksum": "SHA-256:63aab6c382f3583af81cd92903c105fd8d3fbd6c6472e01791e29095c53b414c",
+          "size": "99707",
           "boards": [
             {
               "name": "Niiet UNO-VN035"
