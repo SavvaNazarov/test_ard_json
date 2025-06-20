@@ -12,12 +12,12 @@
         {
           "name": "Niiet uno",
           "architecture": "k1921vk",
-          "version": "1.0.3",
+          "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/SavvaNazarov/test-ard/archive/refs/tags/v1.0.3.zip",
+          "url": "https://github.com/SavvaNazarov/test-ard/archive/refs/tags/v1.0.0.zip",
           "archiveFileName": "test-ard-1.0.3.zip",
-          "checksum": "SHA-256:63aab6c382f3583af81cd92903c105fd8d3fbd6c6472e01791e29095c53b414c",
-          "size": "99707",
+          "checksum": "SHA-256:2b16a372ebde27be08e61a737f1b26747616bb1393ee55f67b80418b4b4706eb",
+          "size": "101128",
           "boards": [
             {
               "name": "Niiet UNO-VN035"
@@ -49,7 +49,7 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/DCVostok/k1921vk-sdk/archive/refs/tags/v1.7.3.zip",
+              "url": "http://niiet.ru/git/k1921vk-sdk-1.7.3.zip",
               "archiveFileName": "k1921vk-sdk-1.7.3.zip",
               "checksum": "SHA-256:21e8ccc397fc1e3763a0a2f3a5c40b9d8d61ad4ff72f0008089bb52d9019c3bf",
               "size": "1871965"
